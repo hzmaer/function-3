@@ -19,11 +19,15 @@
         arguments参数是传递给函索的所有实际参数的一个集合。
         
         例如
+        
         function a(a,b,c,d){
         
+        
         console.debug(arguments.length);     //2
+        
         
         };
+        
         
         a(1,2);
         
