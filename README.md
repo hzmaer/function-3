@@ -21,7 +21,7 @@
         例如
         function a(a,b,c,d){
         
-        console.debug(arguments.length);//2
+        console.debug(arguments.length);     //2
         
         };
         
